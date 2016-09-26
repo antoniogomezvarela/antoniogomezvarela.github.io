@@ -4,23 +4,23 @@ title: Antonio M. Gómez Varela
 tagline: antoniogomezvarela.github.io
 ---
 
-** Nombre y Apellidos **
+**Nombre y Apellidos**
 [Técnico Superior Administración de Sistemas Informáticos en Red (Fecha fin: curso XXXX)]
 
-** Formación Técnica **
+**Formación Técnica**
 [- Administrar/Gestionar/Programación..... – Nivel Experto,Avanzado, Medio, Bajo ]
 [- Administrar/Gestionar/Programación..... – Nivel Experto,Avanzado, Medio, Bajo ]
 
-** Experiencia Laboral **
+**Experiencia Laboral**
 Resume tu experiencia laboral
 
-** Idiomas **
+**Idiomas**
 Idioma 1 – Nivel A1, A2, B1, B2, C1, C2
 
-** Cursos **
+**Cursos**
 [Estudios realizados anteriormente, cursos de formación,...]
 
-** Información adicional **
+**Información adicional**
 	- Interes personales
 	- Interes laborales
 	- Valores personales
