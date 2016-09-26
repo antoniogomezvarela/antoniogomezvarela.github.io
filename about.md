@@ -11,8 +11,15 @@ tagline: antoniogomezvarela.github.io
 
 **Formación Técnica**  
 
-[- Administrar/Gestionar/Programación..... – Nivel Experto,Avanzado, Medio, Bajo ]  
-[- Administrar/Gestionar/Programación..... – Nivel Experto,Avanzado, Medio, Bajo ]
+	- Administración  
+		- Sistemas Linux(Centos,Debian,Ubuntu,...)  
+		- Windows server(2003,2008,2012)  
+		- Red(Cisco,Switch,...)  
+	- Gestión  
+		- Servidores  
+	- Programación  
+		- Python  
+		- PHP  
 
 **Experiencia Laboral**  
 ...  
@@ -25,8 +32,5 @@ tagline: antoniogomezvarela.github.io
 	- Curso Superior Desarrollo de Aplicaciones Web  
 
 **Información adicional**  
-
-	- Interes personales  
-	- Interes laborales  
-	- Valores personales  
+ 
 	- B Disponibilidad total para trabajar fuera de mi provincia  
