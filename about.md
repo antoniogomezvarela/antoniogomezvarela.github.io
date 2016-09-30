@@ -8,7 +8,7 @@ tagline: antoniogomezvarela.github.io
 
 	- Explotación de Sistemas Informáticos  
 	- Técnico Superior Administración de Sistemas Informáticos en Red (Fecha fin: curso 2017)  |
-**Formación Técnica**  
+**Formación Técnica**  |
 
 	- Administración  
 		- Sistemas Linux(Centos,Debian,Ubuntu,...)  
@@ -18,18 +18,18 @@ tagline: antoniogomezvarela.github.io
 		- Servidores  
 	- Programación  
 		- Python  
-		- PHP  
+		- PHP  |
 
-**Experiencia Laboral**  
-...  
+**Experiencia Laboral**  |
+...  |
 
-**Idiomas**  
-...  
+**Idiomas** | 
+...  |
 
-**Cursos**  
+**Cursos**  |
 
-	- Curso Superior Desarrollo de Aplicaciones Web  
+	- Curso Superior Desarrollo de Aplicaciones Web |  
 
-**Información adicional**  
+**Información adicional**  |
  
-	- B Disponibilidad total para trabajar fuera de mi provincia  
+	- B Disponibilidad total para trabajar fuera de mi provincia |  
