@@ -6,4 +6,6 @@ tagline: antoniogomezvarela.github.io
 
 ### Bienvenidos
 
+(imagen)[images/images.jpg]
+
 [Curriculum](about)
