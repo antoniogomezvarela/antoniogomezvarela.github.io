@@ -4,10 +4,10 @@ title: Antonio M. Gómez Varela
 tagline: antoniogomezvarela.github.io
 ---
 
-Nombre y Apellidos | Explotación de Sistemas Informáticos   
-				   | Técnico Superior Administración de Sistemas Informáticos en Red (Fecha fin: curso 2017)   
+Nombre y Apellidos   Explotación de Sistemas Informáticos   
+				     Técnico Superior Administración de Sistemas Informáticos en Red (Fecha fin: curso 2017)   
  ----------------- | ---   
-Formación Técnica  |	- Administración  
+Formación Técnica   	- Administración  
                     		- Sistemas Linux(Centos,Debian,Ubuntu,...)   
 				    		- Windows server(2003,2008,2012)    
 				    		- Red(Cisco,Switch,...)    
