@@ -9,14 +9,14 @@ tagline: antoniogomezvarela.github.io
 | --- | --- |
 
 |Formación Técnica |  	- Administración  
-                    		- Sistemas Linux(Centos,Debian,Ubuntu,...)   
-				    		- Windows server(2003,2008,2012)    
-				    		- Red(Cisco,Switch,...)    
-				    	- Gestión  
-				    		- Servidores       
-				    	- Programación  
-				    		- Python   
-				    		- PHP|     
+                   | 		- Sistemas Linux(Centos,Debian,Ubuntu,...)   
+				   | 		- Windows server(2003,2008,2012)    
+				   | 		- Red(Cisco,Switch,...)    
+				   | 	- Gestión  
+				   | 		- Servidores       
+				   | 	- Programación  
+				   | 		- Python   
+				   | 		- PHP|     
 |--- | --- |
 
 
